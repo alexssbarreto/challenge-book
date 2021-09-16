@@ -30,4 +30,4 @@ Após o término da prova, colocar o código em algum repositório público (git
 
 - **cd desafio-book**
 - **./vendor/bin/sail up**
-- **php artisan migrate:fresh --seed**
+- **./vendor/bin/sail php artisan migrate:fresh --seed**
